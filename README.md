@@ -1,2 +1,0 @@
-# HazelCode
-Hazel Python tutoring

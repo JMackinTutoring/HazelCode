@@ -1,0 +1,14 @@
+
+cd - change directory
+pwd - print working directory
+ls - list
+mkdir - make directory
+touch - make empty file
+echo - print/inject text
+cat - print contents of teext file
+nano - in-terminal text editor
+
+~ - home folder
+. - current folder
+.. - above folder
+/ - root (top most) folder

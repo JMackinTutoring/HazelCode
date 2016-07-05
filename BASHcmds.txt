@@ -7,6 +7,8 @@ touch - make empty file
 echo - print/inject text
 cat - print contents of teext file
 nano - in-terminal text editor
+mv - move file
+rm - delete file
 
 ~ - home folder
 . - current folder
